@@ -1,8 +1,16 @@
 # Programming PDF Books
+<!-- github repo stars -->
+![GitHub Repo stars](https://img.shields.io/github/stars/raihan901/Programming_Books?style=social) ![GitHub forks](https://img.shields.io/github/forks/raihan901/Programming_Books?style=social)
 
 This repo has a collection of programming books for various programming languages, frameworks etc. We shall try as much as possible to abstract them to suite your taste by getting books that are very recommended and of standard, to ensure that you get the best programming skills. The books will be classified in terms of programming languages and/or programming frameworks
 
 # <a href="https://github.com/raihan901/Programming_Books/blob/main/CONTRIBUTING.md">Contribute's Guide</a>
+
+
+Join Telegram for more Golang books https://t.me/gobooksf
+
+![image](https://raw.githubusercontent.com/raihan901/Programming_Books/main/Golang/img/QR%20Code.png)
+
 
 ## Cloning Repository
 
@@ -27,7 +35,7 @@ git clone https://github.com/raihan901/Programming_Books.git
 - Software Development
 - Tdd-Bdd
 - Vim-Tmux
-- etc.
+- etc
 
 
 
